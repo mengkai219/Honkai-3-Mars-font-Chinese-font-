@@ -15,7 +15,7 @@
 
 |名字     |
 | --- |
-|Vladimir15963     |
+|Vladimir|
 |otto |
 
 特别感谢：
@@ -53,3 +53,5 @@
 ## 广告位
 > 欢迎大家来ARG论坛来玩哇！链接：[迷雾论坛](https://www.mistarg.cn) 
 > 还有QQ群链接：[QQ群](https://qm.qq.com/q/Prh0S9r128)
+
+没啦！
