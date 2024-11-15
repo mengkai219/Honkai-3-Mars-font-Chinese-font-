@@ -1,5 +1,6 @@
 ## 关于字体
 基本信息：
+![预览1](https://github.com/user-attachments/assets/cd7affa1-e70e-4ced-8718-0e8e65f7391d)
 
 |信息     |  值   |
 | --- | --- |
@@ -44,6 +45,8 @@
 
 
 ## 制作过程
+![预览2](https://github.com/user-attachments/assets/131afc62-8076-4886-b049-e86e9835d818)
+
 1. 拼符
 在b站上有这期视频[视频链接](https://b23.tv/f8WnEch)，up主帮我们把所有拼符的图案找了出来，并且获得火星字形的生成方式
 2. 字形生成
