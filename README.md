@@ -26,7 +26,7 @@
 |银   | 
 |迷雾|
 
-我的字形的生成器是闭源的，你可去这里[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
+字形的生成器是闭源的，你可去这里[字形生成器](https://github.com/SpeedyOrc-C/Honkai-3rd-II-Martian)用这个开源的字形生成器
 
 ## 什么是火星文?
 「火星文」指的是在游戏《崩坏三》中出现的一种科幻文字，这种科幻文字本质上是中文字的变体，字形则是按拼音来写成的，关于火星文，有更详细的视频解析[视频链接](https://b23.tv/f8WnEch)
